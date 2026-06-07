@@ -1,0 +1,13 @@
+[package]
+name = "discrete-bayes-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Discrete Bayesian inference: Bayes theorem, prior/posterior updating, conjugate priors, naive Bayes classifier"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/discrete-bayes-rs"
+keywords = ["bayesian", "inference", "conjugate-prior", "naive-bayes", "statistics"]
+categories = ["science", "mathematics", "algorithms"]
+readme = "README.md"
+authors = ["SuperInstance"]
+
+[dependencies]
